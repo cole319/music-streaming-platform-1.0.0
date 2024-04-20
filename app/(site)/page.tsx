@@ -7,6 +7,7 @@ export const revalidate = 0; //page will always be upto date
 
 export default async function Home() {
   const songs = await getSongs();
+
   return (
     <div className="bg-slate-900 rounded-lg h-full w-full overflow-hidden overflow-y-auto">
       <Header>
