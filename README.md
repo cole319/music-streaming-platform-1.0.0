@@ -24,7 +24,7 @@
 <h3>Library and Playlists : </h3>
 <p>Users can build a library by publishing their music to the platform or create a playlist with the songs they have liked.</p>
 
-<h3>Subscription Model</h3>
+<h3>Subscription Model : </h3>
 <p>The platform provides a Stripe-integrated subscription model for the users. By purchasing a monthly subscription plan, users can unlock features like uploading their soundtracks.</p>
 
 <h2>Screenshots</h2>
