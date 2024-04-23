@@ -29,22 +29,25 @@
 
 <h2>Screenshots</h2>
 <h3>Home before Login</h3>
-<img src="https://drive.google.com/file/d/1H2nadOnB4YRYeenpMz2ip63k616-ktth/view?usp=drive_link" alt="homeBeforeLogin" />
+
+<img width="1440" alt="homeBeforeLogin" src="https://github.com/cole319/music-streaming-platform-1.0.0/assets/108489425/efba599b-3588-422e-a3fd-eea97da3f809">
 
 <h3>Authentication Page</h3>
-<img src="https://drive.google.com/file/d/1TxKvAKwaMzE8NO9IQU1ptgWwtiFiz_o9/view?usp=drive_link" alt="authenticationPage" />
+<img width="1440" alt="authModal" src="https://github.com/cole319/music-streaming-platform-1.0.0/assets/108489425/e9d18048-9fb3-4479-99bc-c47e5bb0fd13">
 
 <h3>Home after Login</h3>
-<img src="https://drive.google.com/file/d/1ISMbBwEl95OLDB_SvqHmItjmGlkosJIC/view?usp=drive_link" alt="homeAfterLogin" />
+<img width="1440" alt="homeAfterLogin" src="https://github.com/cole319/music-streaming-platform-1.0.0/assets/108489425/04697ad7-c127-4102-9fdc-c61bca2f30a1">
+
 
 <h3>Liked Songs Page</h3>
-<img src="https://drive.google.com/file/d/1sNxiGFWVwfWDV0nQ6pLMFBNLJ7-KXgVb/view?usp=drive_link" alt="likedSongsPage" />
+<img width="1440" alt="likedSongsPage" src="https://github.com/cole319/music-streaming-platform-1.0.0/assets/108489425/e021f02e-f2f6-447f-8f31-2e9b695da764">
 
 <h3>Search Page</h3>
-<img src="https://drive.google.com/file/d/1ZJfzO_r1u1z7RGtRzkwDw5GOpYgL_xNe/view?usp=drive_link" alt="searchPage" />
+<img width="1440" alt="searchPage" src="https://github.com/cole319/music-streaming-platform-1.0.0/assets/108489425/6a7da947-18ea-4f29-879b-a9b9ce23b0eb">
 
 <h3>Account Page</h3>
-<img src="https://drive.google.com/file/d/1NvHbthwnKXQ7EP_ilJ3cf-lbPo7gHKiJ/view?usp=drive_link" alt="accountPage" />
+<img width="1440" alt="accountPage" src="https://github.com/cole319/music-streaming-platform-1.0.0/assets/108489425/dbabfd17-44f3-40b3-8634-668da39589cd">
 
 <h3>File Upload Page</h3>
-<img src="https://drive.google.com/file/d/1LcR0fpENZINHYwW1LgX2iP2iqxT_HjoJ/view?usp=drive_link" alt="fileUploadPage" />
+<img width="1440" alt="fileUploadModal" src="https://github.com/cole319/music-streaming-platform-1.0.0/assets/108489425/ab3ca320-e23a-42f5-8abe-93c54dc4ee6f">
+
