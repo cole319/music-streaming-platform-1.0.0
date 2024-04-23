@@ -43,6 +43,10 @@ export interface Price {
   products?: Product;
 }
 
+export interface ProductWithPrice extends Product {
+  prices?: Price[];
+}
+
 export interface Subscription {
   id: string;
   user_id: string;
@@ -56,7 +60,7 @@ export interface Subscription {
   current_period_end: string;
   ended_at?: string;
   cancel_at?: string;
-  cancelled_at?: string;
+  canceled_at?: string;
   trial_start?: string;
   trial_end?: string;
   prices?: Price;
